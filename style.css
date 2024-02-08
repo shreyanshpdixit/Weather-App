@@ -78,6 +78,10 @@ body{
     padding: 0 40px 0 5px;
 }
 
+.search-box button:hover{
+    cursor: pointer;
+}
+
 .weather-box{
     text-align: center;
     margin: 40px 0;
